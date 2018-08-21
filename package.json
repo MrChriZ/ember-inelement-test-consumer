@@ -33,6 +33,8 @@
     "ember-cli-uglify": "^2.0.0",
     "ember-data": "~3.3.0",
     "ember-export-application-global": "^2.0.0",
+    "ember-in-element-polyfill": "^0.1.3",
+    "ember-inelement-test": "git+https://github.com/MrChriZ/ember-inelement-test.git",
     "ember-load-initializers": "^1.1.0",
     "ember-maybe-import-regenerator": "^0.1.6",
     "ember-resolver": "^4.0.0",
